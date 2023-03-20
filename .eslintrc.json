@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "airbnb",
+   "airbnb-typescript"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+    "react/jsx-no-undef": "off",
+    "react/function-component-definition": "off",
+    "import/prefer-default-export": "off",
+    "import/no-extraneous-dependencies": "off"
+  }
+}
