@@ -1,6 +1,6 @@
 {
   "name": "base",
-  "homepage": "https://<userName>.github.io/<repoName>",
+  "homepage": "https://VovaKlimyuk.github.io/react_base_navbar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
